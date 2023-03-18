@@ -1,0 +1,13 @@
+name: ext
+
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+    - gradescope-utils>=0.2.7
+    - numpy
+    - scipy
+    - theano
+    - nltk
+    - pillow
+    - pandas
